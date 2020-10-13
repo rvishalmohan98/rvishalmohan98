@@ -1,4 +1,7 @@
 ### Hi there, I'm Mohankumar MC [C Tathva] 👋
+
+Graduated from Rajeev Institute of Technology, in the Department of Computer Science and Engineering.
+
 ## I'm a Developer, and Teacher!!
 
 - 🔭 I’m currently working on Web Technologies.
