@@ -2,7 +2,7 @@
 
 Graduated from Rajeev Institute of Technology, in the Department of Computer Science and Engineering.
 
-## I'm a Developer, and Teacher!!
+## I'm a Developer !!
 
 - 🔭 I’m currently working on Web Technologies.
 - 🌱 I’m currently learning everything 🤣
