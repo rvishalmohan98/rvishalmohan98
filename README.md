@@ -1,15 +1,15 @@
-### Hi there, I'm Mohankumar MC [C Tathva][website] 👋
+### Hi there, I'm Mohankumar MC 👋
 
 Graduated from Rajeev Institute of Technology, in the Department of Computer Science and Engineering.
 
 ## I'm a Developer !!
 
 - 🔭 I’m currently working on Web Technologies.
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Data Scientist
-- 💬 Ask me about /The_Social_Dilemma
+- 🌱 I’m currently learning everything. 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 👯 I’m looking to collaborate on startup with innovations.
+- 🤔 I’m looking for help with Data Scientist.
+- 💬 Ask me about \The_Social_Dilemma
 - ⚡ Fun fact: I love to draw.
 
 ### Connect with me:
@@ -57,5 +57,5 @@ Graduated from Rajeev Institute of Technology, in the Department of Computer Sci
 [website]: https://www.youtube.com/channel/UCLHDs5zI_SCykBa6Fv-Os2g
 [twitter]: https://twitter.com/Mohankumarmc498
 [youtube]: https://www.youtube.com/channel/UCLHDs5zI_SCykBa6Fv-Os2g
-[instagram]: https://instagram.com/
+[instagram]: https://www.instagram.com/rvishalmohan/
 [linkedin]: https://www.linkedin.com/in/mohankumar-m-c-47621a150/
