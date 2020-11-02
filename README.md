@@ -9,7 +9,7 @@ Graduated from Rajeev Institute of Technology, in the Department of Computer Sci
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 👯 I’m looking to collaborate on startup with innovations.
 - 🤔 I’m looking for help with Data Scientist.
-- 💬 Ask me about \The_Social_Dilemma
+- 💬 Ask me about ______
 - ⚡ Fun fact: I love to draw.
 
 ### Connect with me:
